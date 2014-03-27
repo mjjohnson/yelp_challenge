@@ -1,0 +1,10 @@
+data
+*.tmp
+*.json
+*.tar
+*.gz
+*.bz2
+*.pyc
+*.swp
+*~
+
