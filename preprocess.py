@@ -64,11 +64,12 @@ def process_businesses(data_dir):
         if not 'Restaurants' in business['categories']:
             continue
 
-        if business['type'] != 'business':
-            print business['type']
+        # And we only want ones with price range attributes (13% filtered out)
+        if not business['attributes'].get('Price Range'):
+            continue
 
         attrs = dict(((a, business[a]) for a in ATTRS))
-        attrs['price_range'] = business['attributes'].get('Price Range', -1)
+        attrs['price_range'] = business['attributes']['Price Range']
         attrs['checkins'] = checkins.get(business['business_id'], 0)
         filtered.append(attrs)
     save_json('processed.json', filtered)
