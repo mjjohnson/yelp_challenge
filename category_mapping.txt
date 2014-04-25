@@ -1,0 +1,163 @@
+Active Life
+Afghan	Middle_Eastern
+African	African
+American (New)	American
+American (Traditional)	American
+Amusement Parks
+Arcades
+Arts & Entertainment
+Asian Fusion	Asian
+Automotive
+Bagels	Breakfast
+Bakeries	Breakfast
+Barbeque	American
+Bars
+Basque	European
+Beauty & Spas
+Beer Hall
+Beer, Wine & Spirits
+Bowling
+Brasseries	European
+Brazilian	Latin
+Breakfast & Brunch	Breakfast
+Breweries
+British	European
+Buffets	Buffet
+Burgers	Fast_food
+Butcher
+Cafes	Other
+Cafeteria	Other
+Cajun/Creole	Latin
+Cambodian	Asian
+Cantonese	Asian
+Car Wash
+Caribbean	Latin
+Caterers
+Cheesesteaks	American
+Chicken Wings	American
+Chinese	Asian
+Chocolatiers & Shops	Dessert
+Cinema
+Cocktail Bars
+Coffee & Tea
+Colombian	Latin
+Comfort Food	American
+Convenience Stores
+Creperies	European
+Cuban	Latin
+Cultural Center
+Dance Clubs
+Day Spas
+Delis	Lunch
+Desserts	Dessert
+Dim Sum	Asian
+Diners	American
+Dive Bars
+Do-It-Yourself Food
+Donuts	Breakfast
+Drugstores
+Ethiopian	African
+Ethnic Food	Other
+Event Planning & Services
+Fast Food	Fast_food
+Filipino	Asian
+Fish & Chips	European
+Fitness & Instruction
+Fondue	Dessert
+Food
+Food Court
+Food Delivery Services
+Food Stands	Fast_food
+Food Trucks	Fast_food
+French	European
+Fruits & Veggies
+Gas & Service Stations
+Gastropubs
+Gelato	Dessert	European
+German	European
+Gluten-Free
+Golf
+Greek	Mediterranean
+Grocery
+Gyms
+Halal	Middle_Eastern
+Hawaiian	American
+Health Markets
+Hookah Bars
+Hot Dogs	Fast_food	American
+Hotels
+Hotels & Travel
+Ice Cream & Frozen Yogurt	Dessert	American
+Indian	Indian
+Indonesian	Asian
+Internet Cafes
+Irish	European
+Italian	European
+Japanese	Asian
+Jazz & Blues
+Juice Bars & Smoothies
+Karaoke
+Korean	Asian
+Kosher	Middle_Eastern
+Landmarks & Historical Buildings
+Latin American	Latin
+Lebanese	Mediterranean
+Live/Raw Food
+Lounges
+Meat Shops
+Mediterranean	Mediterranean
+Mexican	Latin
+Middle Eastern	Middle_Eastern
+Modern European	European
+Mongolian	Asian
+Moroccan	African
+Music Venues
+Nightlife
+Outlet Stores
+Pakistani	Middle_Eastern
+Persian/Iranian	Middle_Eastern
+Personal Shopping
+Peruvian	Latin
+Piano Bars
+Pita	Mediterranean
+Pizza	American
+Polish	European
+Pool Halls
+Public Services & Government
+Pubs
+Restaurants
+Russian	European	European
+Salad
+Sandwiches	Lunch
+Scandinavian	European
+Seafood
+Seafood Markets
+Shaved Ice	Dessert
+Shopping
+Shopping Centers
+Soul Food	American
+Soup
+Southern	American
+Spanish	Latin
+Specialty Food
+Sports Bars	American
+Steakhouses	American
+Street Vendors	Fast_food
+Sushi Bars	Asian
+Szechuan	Asian
+Taiwanese	Asian
+Tapas Bars	European	Latin
+Tapas/Small Plates	European	Latin
+Taxis
+Tea Rooms
+Tennis
+Tex-Mex	Latin
+Thai	Asian
+Tours
+Transportation
+Turkish	Mediterranean
+Vegan
+Vegetarian
+Venues & Event Spaces
+Vietnamese	Asian
+Wine Bars

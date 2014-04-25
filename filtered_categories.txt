@@ -1,0 +1,14 @@
+African
+Asian
+Breakfast
+Buffet
+Dessert
+European
+Indian
+Lunch
+Mediterranean
+Middle_Eastern
+Latin
+American
+Fast_food
+Other

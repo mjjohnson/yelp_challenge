@@ -1,0 +1,11 @@
+cat8	10
+cat6	8
+price	11
+cat1	3
+cat2	4
+cat3	5
+cat4	6
+cat5	7
+_latitude	1
+cat7	9
+_longitude	2
